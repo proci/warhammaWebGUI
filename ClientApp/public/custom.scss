@@ -1,6 +1,6 @@
 body{
-    background-color: gray;
-    color:white;
+    background-color: black !important;
+    color:white !important;
 }
 
 h1{
@@ -14,3 +14,7 @@ h1{
     margin-right: auto;
     width: 50%;
   }
+
+.add-button{
+    width:100px;
+}

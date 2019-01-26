@@ -1,6 +1,11 @@
+body {
+  background-color: gray;
+  color: white;
+}
+
 h1 {
   font-size: 44px;
-  background-color: purple;
+  text-align: center;
 }
 
 .center {

@@ -1,6 +1,11 @@
+body {
+  background-color: black !important;
+  color: white !important;
+}
+
 h1 {
   font-size: 44px;
-  background-color: purple;
+  text-align: center;
 }
 
 .center {
@@ -8,5 +13,9 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+.add-button {
+  width: 100px;
 }
 /*# sourceMappingURL=custom.css.map */
